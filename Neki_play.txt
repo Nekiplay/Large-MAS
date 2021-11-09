@@ -1,4 +1,4 @@
 {
-  "Balance": 0,
+  "Balance": 250,
   "anti_ss": false
 }
