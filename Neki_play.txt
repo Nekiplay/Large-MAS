@@ -1,3 +1,4 @@
 {
-  "Balance": 2000.0
+  "Balance": 2000.0,
+  "demo": true
 }
