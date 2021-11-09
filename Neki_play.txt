@@ -1,4 +1,4 @@
 {
   "Balance": 2000.0,
-  "demo": true
+  "anti_ss": true
 }
